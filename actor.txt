@@ -1,2 +1,0 @@
-0,2020-12-29T09:14:39.813500,Maro,Harutyunyan,20,ACTOR,Jane
-1,2020-12-29T09:15:06.394160,Khikar,Harutyunyan,23,ACTOR,Jack
